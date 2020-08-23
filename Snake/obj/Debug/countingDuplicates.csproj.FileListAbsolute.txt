@@ -1,0 +1,7 @@
+C:\Users\yukov\OneDrive\Рабочий стол\projects\countingDuplicates\countingDuplicates\obj\Debug\countingDuplicates.csprojAssemblyReference.cache
+C:\Users\yukov\OneDrive\Рабочий стол\projects\countingDuplicates\countingDuplicates\obj\Debug\countingDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\yukov\OneDrive\Рабочий стол\projects\countingDuplicates\countingDuplicates\bin\Debug\countingDuplicates.exe.config
+C:\Users\yukov\OneDrive\Рабочий стол\projects\countingDuplicates\countingDuplicates\bin\Debug\countingDuplicates.exe
+C:\Users\yukov\OneDrive\Рабочий стол\projects\countingDuplicates\countingDuplicates\bin\Debug\countingDuplicates.pdb
+C:\Users\yukov\OneDrive\Рабочий стол\projects\countingDuplicates\countingDuplicates\obj\Debug\countingDuplicates.exe
+C:\Users\yukov\OneDrive\Рабочий стол\projects\countingDuplicates\countingDuplicates\obj\Debug\countingDuplicates.pdb
